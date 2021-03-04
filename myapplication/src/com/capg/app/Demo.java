@@ -8,6 +8,8 @@ public class Demo {
 
 		System.out.println("Good Afternoon");
 		
+		System.out.println("Have a good day");
+		
 	}
 
 }
